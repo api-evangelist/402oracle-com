@@ -66,7 +66,7 @@
 
 402 Oracle provides independent, cryptographically signed attestations that AI agents can cite before taking actions. It offers verification of business legitimacy, domain authenticity, price accuracy, and URL liveliness, with pay-per-call pricing in USDC on multiple blockchains (Base, Polygon, Arbitrum). The service delivers verifiable trust scores and evidence URLs, supporting bulk verification for vendor screening and fraud prevention, all without requiring accounts or API keys.
 
-**Areas:** Verification · Blockchain · AI · Trust · Finance
+**Areas:** Verification · Blockchain · Artificial Intelligence · Trust · Finance
 
 ## 402 Oracle on APIs.io
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [402Oracle Com Agentic Access](https://apis.io/agentic-access/402oracle-com/402oracle-com-agentic-access/)
+- [402 Oracle Agentic Access](https://apis.io/agentic-access/402oracle-com/402oracle-com-agentic-access/)
 
 #### JSON Schema (1)
 
@@ -108,7 +108,7 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [402Oracle Com Domain Security](https://apis.io/security/402oracle-com/402oracle-com-domain-security/)
+- [402 Oracle Domain Security](https://apis.io/security/402oracle-com/402oracle-com-domain-security/)
 
 ## Where to find this API
 
@@ -118,25 +118,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 29.3** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 22.4** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 62.5 |
-| Contract quality | 52.1 |
-| Contract governance | 79.1 |
+| Discoverability | 69.6 |
+| Contract quality | 55.2 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 6.4 |
 | Access clarity | 0.0 |
 
-**Agent readiness 35.4** — agent-ready
+**Agent readiness 27.2** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | verified |
@@ -154,8 +154,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 4.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/402oracle-com/](https://apis.io/providers/402oracle-com/).
 
